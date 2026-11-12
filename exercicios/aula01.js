@@ -3,7 +3,7 @@
 
 // ex1
 // Escreva a linha que cria uma variavel chamada visto guardando o valor falso.
-
+dfbvfddsds
 
 // ex2
 // Diga o que cada comparacao devolve, true ou false:
